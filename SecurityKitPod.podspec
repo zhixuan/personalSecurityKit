@@ -4,12 +4,12 @@ Pod::Spec.new do |spec|
 
 
   spec.name         = "personalSecurityKit"
-  spec.version      = "1.0.2"
+  spec.version      = "1.0.6"
   spec.summary      = "A short description of personalSecurityKit. app!"
 
 
    spec.description  = <<-DESC
- personalSecurityKit 是一个用于验证加密算法的内容 
+ personalSecurityKit 是一个用于验证加密算法的内容 personalSecurityKit. app!
 			DESC
 
   spec.homepage     = "https://github.com/zhixuan/personalSecurityKit.git"
@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
 
 
 
-  spec.license      = { :type => "MIT", :file => "LICENSE" }
+  spec.license      = "MIT"
 
 
 
@@ -28,7 +28,7 @@ Pod::Spec.new do |spec|
 
 
 
-  spec.source       = { :git => "https://github.com/zhixuan/personalSecurityKit.git", :tag => "1.0.2" }
+  spec.source       = { :git => "https://github.com/zhixuan/personalSecurityKit.git", :tag => "1.0.6" }
 
 
 

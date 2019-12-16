@@ -316,7 +316,7 @@
 				CODE_SIGN_ENTITLEMENTS = SecurityKit/SecurityKit.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer: LiGuang Zhang (AQ77T7RG6C)";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1.0.4;
+				CURRENT_PROJECT_VERSION = 1.0.6;
 				DEVELOPMENT_TEAM = ZH55FC37P2;
 				INFOPLIST_FILE = SecurityKit/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
@@ -324,7 +324,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0.4;
+				MARKETING_VERSION = 1.0.6;
 				PRODUCT_BUNDLE_IDENTIFIER = com.cn.CloudKitOrSecurity;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "8f204931-5e3d-4179-9db4-2542bebe26f7";
@@ -340,7 +340,7 @@
 				CODE_SIGN_ENTITLEMENTS = SecurityKit/SecurityKit.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer: LiGuang Zhang (AQ77T7RG6C)";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1.0.4;
+				CURRENT_PROJECT_VERSION = 1.0.6;
 				DEVELOPMENT_TEAM = ZH55FC37P2;
 				INFOPLIST_FILE = SecurityKit/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
@@ -348,7 +348,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0.4;
+				MARKETING_VERSION = 1.0.6;
 				PRODUCT_BUNDLE_IDENTIFIER = com.cn.CloudKitOrSecurity;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "c03d3e77-6509-44e2-a80a-0529ffca1579";
